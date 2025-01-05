@@ -1,5 +1,5 @@
 # 💫 Hey! Nice to see you.
-👋 Hi there, I'm Aman, a Java developer from India.<br><br>💼 Currently working as a backend developer at Incture Technology Pvt Ltd, specializing in Spring and Hibernate.<br><br>🚀 Passionate about building scalable and maintainable software systems.<br><br>👨‍💻 Skilled in Java, React, Spring Boot, Hibernate, SQL, and more.<br><br>🎓 Graduated from the Birla Institute of Technology Mesra with a degree in Information Technology.<br><br>✉️ Feel free to contact me at amanpandey27228@gmail.com.
+👋 Hi there, I'm Aman, a Java developer from India.<br><br>💼 Currently working as a Software Development Engineer at Medikabazaar, specializing in Spring and Hibernate.<br><br>🚀 Passionate about building scalable and maintainable software systems.<br><br>👨‍💻 Skilled in Java, Spring Boot, Hibernate, SQL,Docker, Kafka, Elasticsearch, Postgres and more.<br><br>🎓 Graduated from the Birla Institute of Technology Mesra with a degree in Information Technology.<br><br>✉️ Feel free to contact me at amanpandey27228@gmail.com.
 
 
 ## 🌐 Socials:
